@@ -1,2 +1,2 @@
 # chat
-Simple realtime chat web application built with node js, express js and socket.io
+Simple realtime chat web application with Node.js, Express.js and Socket.io
